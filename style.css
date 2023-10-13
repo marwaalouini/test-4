@@ -11,7 +11,7 @@ padding: 30px;
 
 }
 
-
+a{ text-decoration: none;}
 .nav a{ margin: 20px;}
 
 
@@ -29,6 +29,9 @@ margin-top: -160px;}
     margin-top: -160px;
 }
 
+h1{ font-family:font-family: 'Righteous', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Zilla Slab', serif;}
 .section h1{ color: blue;}
 h3{color: rgb(128, 0, 79);}
 
